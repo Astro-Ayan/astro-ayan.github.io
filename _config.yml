@@ -43,7 +43,6 @@ plugins:
 
 paginate: 3
 paginate_path: "/page/:num/"
-theme: hitchens-theme
 ignore_theme_config: true
 show_excerpts: true
 excerpt_length: 10
