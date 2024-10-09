@@ -4,7 +4,7 @@
     "home_page_url": "http://localhost:4000/",
     "feed_url": "http://localhost:4000/feed.json",
     "description": "Ph. D., Astrophysics.",
-    "icon": "",
+    "icon": "http://localhost:4000/AB-icon.png",
     "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,
     "items": [
