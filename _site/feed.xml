@@ -5,9 +5,44 @@
     <description>Ph. D., Astrophysics.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed/index.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Oct 2024 16:55:27 +0900</pubDate>
-    <lastBuildDate>Wed, 09 Oct 2024 16:55:27 +0900</lastBuildDate>
+    <pubDate>Wed, 09 Oct 2024 17:44:27 +0900</pubDate>
+    <lastBuildDate>Wed, 09 Oct 2024 17:44:27 +0900</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
+    
+      
+        <item>
+          
+            <title>Generalized Flows around Neutron Stars</title>
+          
+          <author>ayan.herm@gmail.com (Ayan Bhattacharjee)</author>
+          <description>
+            &lt;p&gt;In this chapter, we present a brief and non-exhaustive review of the developments of theoretical models for accretion flows around neutron stars. A somewhat chronological summary of crucial observations and modelling of timing and spectral properties are given in Sects. 2 and 3. In Sect. 4, we argue why and how the Two-Component Advective Flow (TCAF) solution can be applied to the cases of neutron stars when suitable modifications are made for the NSs. We showcase some of our findings from Monte Carlo&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and Smoothed Particle Hydrodynamic&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; simulations which further strengthens the points raised in Sect. 4. In summary, we remark on the possibility of future works using TCAF for both weakly magnetic and magnetic Neutron Stars.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://link.springer.com/chapter/10.1007/978-3-319-94607-8_8&quot;&gt;Link to the Book Chapter&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Monte Carlo simulations of thermal comptonization process in a two-component advective flow around a neutron star &lt;a href=&quot;https://ui.adsabs.harvard.edu/link_gateway/2017MNRAS.472.1361B/doi:10.1093/mnras/stx1867&quot;&gt;BC17&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Timing Properties of Shocked Accretion Flows around Neutron Stars in the Presence of Cooling &lt;a href=&quot;https://ui.adsabs.harvard.edu/link_gateway/2019ApJ...873..119B/doi:10.3847/1538-4357/ab074a&quot;&gt;BC19&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+          </description>
+          <pubDate>Wed, 09 Oct 2024 00:00:00 +0900</pubDate>
+          <link>http://localhost:4000/accretion/physics/2024/10/09/generalized-flows-around-NS.html</link>
+          <guid isPermaLink="true">http://localhost:4000/accretion/physics/2024/10/09/generalized-flows-around-NS.html</guid>
+          
+          
+          <category>Accretion</category>
+          
+          <category>Physics</category>
+          
+        </item>
+      
     
       
         <item>
