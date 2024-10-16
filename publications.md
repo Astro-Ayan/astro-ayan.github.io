@@ -7,4 +7,4 @@ title: Publications
 2. As if it wasn't enough, here's another ~~self-promoted~~ list of articles, some published and some in perpetual purgatory of revision. But, this time, in [ADS](https://ui.adsabs.harvard.edu/public-libraries/HSdfai8rQSS6QnpJAK52_A), because *why not*. 
 3. For those who are using __Researchgate__, here is the link to the ~~delibertaly~~ not-so-updated profile of [his](https://www.researchgate.net/profile/Ayan-Bhattacharjee target="_blank").
 
-4. Those who are ~~still~~ interested in finding a detailed list of his research works, please take a look at this ~~neverending~~ [CV](CV_AB_2024.pdf).
+4. Those who are ~~still~~ interested in finding a detailed list of his research works, please take a look at this ~~neverending~~ [CV](CV_AB_2024_NEW.pdf).
