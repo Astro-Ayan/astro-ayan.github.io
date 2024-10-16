@@ -8,9 +8,14 @@
 // $text-color:          #0D100E;
 // $muted-text-color:    #A70100;
 
-$brand-color:         #eeba30;
-$text-color:          #000000;
-$muted-text-color:    #740001;
+// Gryffindor Lions
+// $brand-color:         #eeba30;
+// $text-color:          #000000;
+// $muted-text-color:    #740001;
+
+$brand-color:         #ffebd0; // Pure
+$text-color:          #173b61; // Denim
+$muted-text-color:    #17616e; //Deep Turquoise
 $highlight:           lighten($brand-color, 35%);
 
 $font-family:         "EB Garamond", Garamond, "Times New Roman", serif;
