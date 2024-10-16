@@ -86,7 +86,7 @@ input, select {
  * Syntax highlighting styles
  */
 code.highlighter-rouge {
-  background: #fff5b2;
+  background: #f8f6f3;
   font-family: courier, monospace;
   font-size: 0.875em;
 }
@@ -101,7 +101,7 @@ code.highlighter-rouge {
   padding: 0 1.5rem;
 }
 .highlighter-rouge .highlight {
-  background: #fff5b2;
+  background: #f8f6f3;
 }
 .highlight .c {
   color: #998;
@@ -306,8 +306,8 @@ code.highlighter-rouge {
   src: local("EB Garamond Regular"), local("EBGaramond-Regular"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.eot?#iefix") format("embedded-opentype"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.woff2") format("woff2"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.woff") format("woff"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.ttf") format("truetype"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.svg#EBGaramond") format("svg"); /* Legacy iOS */
 }
 body {
-  background: #fede00;
-  color: #0b0404;
+  background: #B8A081;
+  color: #0D100E;
   font-family: "EB Garamond", Garamond, "Times New Roman", serif;
   font-size: 1.3125em;
   line-height: 1.5;
@@ -360,11 +360,11 @@ strong {
 }
 
 a {
-  color: #0b0404;
+  color: #0D100E;
 }
 
 a:focus {
-  outline: 1px dashed #0b0404;
+  outline: 1px dashed #0D100E;
 }
 
 blockquote {
@@ -442,7 +442,7 @@ figcaption {
 }
 
 .post-date {
-  color: #64644B;
+  color: #A70100;
   display: block;
   font-size: 0.825em;
   white-space: nowrap;
@@ -459,7 +459,7 @@ figcaption {
 }
 
 .skip-navigation {
-  background: #fede00;
+  background: #B8A081;
   border: 1px dashed transparent;
   display: block;
   font-size: 0.875em;
@@ -471,8 +471,8 @@ figcaption {
   text-transform: uppercase;
 }
 .skip-navigation:hover, .skip-navigation:focus {
-  background: #ffe00c;
-  border-color: #0b0404;
+  background: #bda689;
+  border-color: #0D100E;
   margin-top: 0;
 }
 
@@ -495,7 +495,7 @@ figcaption {
 }
 
 .site-masthead h2 {
-  color: #64644B;
+  color: #A70100;
   font-size: 1.25em;
   margin: 0;
   padding: 0 2rem;
@@ -554,7 +554,7 @@ figcaption {
 }
 
 .post-link {
-  color: #0b0404;
+  color: #0D100E;
   display: flex;
   flex-direction: column-reverse;
   text-decoration: none;
@@ -624,7 +624,7 @@ figcaption {
   margin: 2em auto;
   max-width: 60rem;
   padding: 2em 0;
-  box-shadow: 12px 18px 24px rgba(0, 0, 0, 0.1);
+  box-shadow: 12px 18px 24px rgba(37, 30, 21, 0.1);
 }
 
 .post > * {
@@ -653,7 +653,7 @@ figcaption {
 }
 
 .post a:hover {
-  background: #fff5b2;
+  background: #f8f6f3;
 }
 
 .post dl,
@@ -686,9 +686,9 @@ figcaption {
 }
 
 .footnote {
-  border: 1px solid #64644B;
+  border: 1px solid #A70100;
   border-radius: 1em;
-  color: #0b0404;
+  color: #0D100E;
   display: inline;
   font-size: 0.75em;
   font-weight: 700;
@@ -697,8 +697,8 @@ figcaption {
   margin: 0 0.25em;
 }
 .footnote:hover, .footnote:focus {
-  background: #fede00;
-  border-color: #fede00;
+  background: #B8A081;
+  border-color: #B8A081;
 }
 
 .footnotes::before {
@@ -736,11 +736,11 @@ figcaption {
   border: 0;
   font: 1em "EB Garamond", Garamond, "Times New Roman", serif;
   padding: 0.5em;
-  color: #0b0404;
+  color: #0D100E;
   text-align: center;
 }
 #search__input:focus {
-  outline: 1px dashed #0b0404;
+  outline: 1px dashed #0D100E;
 }
 
 #search button[type=submit] {
@@ -748,19 +748,19 @@ figcaption {
 }
 
 ::-webkit-input-placeholder {
-  color: #64644B;
+  color: #A70100;
 }
 
 ::-moz-placeholder {
-  color: #64644B;
+  color: #A70100;
 }
 
 :-ms-input-placeholder {
-  color: #64644B;
+  color: #A70100;
 }
 
 :-moz-placeholder {
-  color: #64644B;
+  color: #A70100;
 }
 
 /*# sourceMappingURL=main.css.map */
