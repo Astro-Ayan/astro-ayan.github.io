@@ -2,10 +2,16 @@
 // $text-color:          #0b0404;
 // $muted-text-color:    #64644B; Original Set
 // Burberry Set
-$brand-color:         #B8A081;
+
+// Burberry Tartan
+// $brand-color:         #B8A081;
+// $text-color:          #0D100E;
+// $muted-text-color:    #A70100;
+
+$brand-color:         #eeba30;
+$text-color:          #000000;
+$muted-text-color:    #740001;
 $highlight:           lighten($brand-color, 35%);
-$text-color:          #0D100E;
-$muted-text-color:    #A70100;
 
 $font-family:         "EB Garamond", Garamond, "Times New Roman", serif;
 
