@@ -13,9 +13,17 @@
 // $text-color:          #000000;
 // $muted-text-color:    #740001;
 
-$brand-color:         #173b61;// Denim
-$text-color:          #ffebd0; // Pure
-$muted-text-color:    #17616e; //Deep Turquoise
+//Trial dark theme
+// $brand-color:         #173b61;// Denim
+// $text-color:          #ffebd0; // Pure
+// $muted-text-color:    #17616e; //Deep Turquoise
+
+// GPT suggestion
+$brand-color:         #F7F7F5; // Soft Ivory
+$text-color:          #2C3E50; // Deep Charcoal
+$muted-text-color:    #7F8C8D; // Cool Gray
+
+// Additional Earth Tones: Warm Taupe (#A28D76), Olive Green (#8E8B55), Terracotta (#D98866), Muted Sand (#D7C4A0), Slate Brown (#4B3A35)
 $highlight:           lighten($brand-color, 35%);
 
 $font-family:         "EB Garamond", Garamond, "Times New Roman", serif;
