@@ -13,7 +13,7 @@ Ayan Bhattacharjee is a Postdoc at the erstwhile (sigh...) *Center for High Ener
 </figure> -->
 
 ![Circa 2024\label{Selfie}](AB_image.jpg)
-### Mirror, BEXCO, COSPAR 2024, Busan, South Korea
+#### Mirror, BEXCO, COSPAR 2024, Busan, South Korea
 ​
 Before that, he was a Visiting Researcher in the Department of Astrophysics and Cosmology at S. N. Bose National Centre for Basic Sciences, till ~~the plague~~ *COVID19* mucked it all up. In pre-covid days, he did his Masters' and Doctorate at the same institute.
 ​
