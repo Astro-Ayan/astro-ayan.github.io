@@ -9,7 +9,7 @@ Living as an expat in Korea for three years has taught me many things, especiall
 So far I can think of three distinct ways I can categorise the information: Visa/Administrative Processes, Personal Space Management, and Personal Knowledge Management (PKM).
 
 ### Visa/Administrative Processes
-For details of Korean Visa categories, check out the [!offcial website](https://www.visa.go.kr/main/openMain.do).
+For details of Korean Visa categories, check out the [offcial website](https://www.visa.go.kr/main/openMain.do).
 Here, the detailed list of document are listed for different categories (e.g. E3 for Postdocs, D-2 for students etc.). The information here is the most accurate and often might save one a lot of time when the local administration (e.g. Uni, local immigration office) is unclear about the rules. 
 
 One tip, for postdoc applicants, who are yet to obtain their PhD certificate, __ONE CAN GET E-3 VISA WITHOUT PHD DEGREE__, as the requirement is __Masters' and 3 years of Research Experience__.
@@ -26,8 +26,8 @@ One tip, for postdoc applicants, who are yet to obtain their PhD certificate, __
 
 
 ### Personal Knowledge Management
-For, reference management, I have been using [!Zotero](https://www.zotero.org) for the last year and it is absoultely __brilliant!__
+For, reference management, I have been using [Zotero](https://www.zotero.org) for the last year and it is absoultely __brilliant!__
 The fact that it is cross-platform and has a free plan as well, makes it even better. 
 The syncing across devises had been wokring nicely as well. 
 
-For note taking, I would strongly recommend [!Obsidian](https://obsidian.md), as it is basically in __Markdown__ format, provides knowledge __network graphs__, and includes __mind-map__ or [!canvas](https://obsidian.md/canvas).
+For note taking, I would strongly recommend [Obsidian](https://obsidian.md), as it is basically in __Markdown__ format, provides knowledge __network graphs__, and includes __mind-map__ or [canvas](https://obsidian.md/canvas).
