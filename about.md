@@ -17,4 +17,8 @@ Ayan Bhattacharjee is a Postdoc at the erstwhile (sigh...) *Center for High Ener
 ​
 Before that, he was a Visiting Researcher in the Department of Astrophysics and Cosmology at S. N. Bose National Centre for Basic Sciences, till ~~the plague~~ *COVID19* mucked it all up. In pre-covid days, he did his Masters' and Doctorate at the same institute.
 ​
-His PhD ~~dust collector~~ Thesis was on the accretion processes around Black Holes and Neutron Stars. One can find a detailed list of his work, interests and publications somwhere in this *website* or by simply poking him with a stick.
+His PhD Thesis ~~is collecting dust~~ was on the accretion processes around Black Holes and Neutron Stars. One can find a detailed list of his work, interests and publications somwhere in this *website* or by simply poking him with a stick.
+
+Prior to that, he did is master's on Physical Sciences, with a specialization in Astrophysics, as part of the Integrated PhD programme. Information regarding that can be obtained even without poking him, as he loves talking about *the good ol' days*, a tad too much!
+
+For a ~~humorless~~ compact version of his academic journey, please take a look at his [CV](CV_AB_2024_NEW_3page.pdf).
