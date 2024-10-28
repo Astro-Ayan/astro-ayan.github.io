@@ -5,6 +5,8 @@ title: Publications
 
 Here's the link to his [Google Scholar](https://scholar.google.com/citations?hl=en&user=mBT1-hwAAAAJ&view_op=list_works).
 
+Here's a safe path to ~~Mordor~~ his [ORCID](https://orcid.org/0000-0002-2878-4025).
+
 As if it wasn't enough, here's another ~~self-promoted~~ list of articles, some published and some in perpetual purgatory of revision. But, this time, in [ADS](https://ui.adsabs.harvard.edu/public-libraries/HSdfai8rQSS6QnpJAK52_A), because *why not*. 
 
 For those who are using __Researchgate__, here is the link to the ~~deliberately~~ not-so-updated profile of [his](https://www.researchgate.net/profile/Ayan-Bhattacharjee target="_blank").
