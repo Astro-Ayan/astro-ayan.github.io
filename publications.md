@@ -3,7 +3,7 @@ layout: post
 title: Publications
 ---
 
-For those, *taking refuge among the stars*, the *Prime* location for his work is NASA's newest roll-out of [B](https://ui.adsabs.harvard.edu/public-libraries/HSdfai8rQSS6QnpJAK52_A)*umbleBee*.
+For those, *taking refuge among the stars*, the *Prime* location for his work is NASA's newest roll-out of [![B](word_cloud_pub.png)](https://ui.adsabs.harvard.edu/public-libraries/HSdfai8rQSS6QnpJAK52_A)*umbleBee*.
 
 Here's a safe path to ~~Mordor~~ his [O](https://orcid.org/0000-0002-2878-4025)*RCID*.
 
