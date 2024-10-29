@@ -4,7 +4,7 @@ title: Self-Organization
 ---
 
 ## Life as an Expat
-Living as an expat in Korea for three years has taught me many things, especially, that it is always better to be self-reliant and prepared for worse case scenarios. Although it is not possible for us to factor all the parameters of *life*, it is still better to be as informed as possible, from as many types of sources as possible (mainly to avoid eco-chambers and prejudice). So, I am using this space to provide a list of things that were/are useful for me, and hopefully it might be useful to others.
+Living as an expat in Korea for three years has taught me many things, especially, that it is always better to be self-reliant and prepared for worse case scenarios. Although it is not possible for us to factor all the parameters of *life*, it is still better to be as informed as possible, from as many types of sources as possible (mainly to avoid echo-chambers and prejudice). So, I am using this space to provide a list of things that were/are useful for me, and hopefully it might be useful to others.
 
 So far I can think of three distinct ways I can categorise the information: Visa/Administrative Processes, Personal Space Management, and Personal Knowledge Management (PKM).
 
