@@ -5,8 +5,8 @@
     <description>Ph. D., Astrophysics.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed/index.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Nov 2024 20:22:43 +0900</pubDate>
-    <lastBuildDate>Thu, 14 Nov 2024 20:22:43 +0900</lastBuildDate>
+    <pubDate>Thu, 14 Nov 2024 23:24:45 +0900</pubDate>
+    <lastBuildDate>Thu, 14 Nov 2024 23:24:45 +0900</lastBuildDate>
     <generator>Jekyll v4.3.4</generator>
     
       
@@ -16,9 +16,18 @@
           
           <author>ayan.herm@gmail.com (Ayan Bhattacharjee)</author>
           <description>
-            &lt;p&gt;Radio galaxies are classified into two primary categories based on their morphology&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;: centerbrightened FR-I and edge-brightened FR-II. It is believed that the jet power and interactions with the ambient medium govern the deceleration and decollimation of the jet-spine flows, which, in turn, influence this dichotomy. Using high-resolution, three-dimensional relativistic hydrodynamic simulations, we follow the development of flow structures on sub-kpc to kpc scales in kinetically dominant low-power relativistic jets. We find that the bulk Lorentz factor of the jet spine and the advance speed of the jet head, which depend on the energy injection flux and the jet-to-background density contrast, primarily determine the dynamics and structures of the jet-induced flows. The entrainment of ambient gas and the background density and pressure gradient may also play significant roles. To emulate radio morphology, we produce the synthetic maps of the synchrotron surface brightness for the simulated jets, by employing simple models for magnetic field distribution and nonthermal electron population and considering relativistic beaming effects at different inclination angles. Both the flow structures and radio maps capture the longitudinal and transverse structures of the jet-spine and shear layer, consistent with observations. We also compare different background effects and argue that the loss of pressure confinement beyond the galactic core may be a key factor in the flaring and disruption of FR-I jets. Our results confirm that mildly relativistic jets could explain the one-sidedness or asymmetries with the boosted main jet and deboosted counterjet pairs.&lt;/p&gt;
+            &lt;h4 id=&quot;motivation&quot;&gt;Motivation&lt;/h4&gt;
+&lt;p&gt;How do different entrainment processes affect the dynamics, flow structures and morphology of relativistic jets? 
+Can these account for the edge-brightened/edge-darkened dichotomy seen in radio galaxy jets? 
+Does it fit the bigger picture of the unified scheme of AGN?&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-4357/ad83cc&quot;&gt;Link to the ApJ Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Standing on the shoulders of giants (too many to name, but the reference list is a good start), these 3D RHD simulations (Bhattacharjee et al. 2024) tries to answer these and provide ground for looking into some more questions.&lt;/p&gt;
+
+&lt;h4 id=&quot;abstract&quot;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;Radio galaxies are classified into two primary categories based on their morphology&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;: centerbrightened FR-I and edge-brightened FR-II. It is believed that the jet power and interactions with the ambient medium govern the deceleration and decollimation of the jet-spine flows, which, in turn, influence this dichotomy. Using high-resolution, three-dimensional relativistic hydrodynamic simulations, we follow the development of flow structures on sub-kpc to kpc scales in kinetically dominant low-power relativistic jets. We find that the bulk Lorentz factor of the jet spine and the advance speed of the jet head, which depend on the energy injection flux and the jet-to-background density contrast, primarily determine the dynamics and structures of the jet-induced flows. The entrainment of ambient gas and the background density and pressure gradient may also play significant roles. To emulate radio morphology, we produce the synthetic maps of the synchrotron surface brightness for the simulated jets, by employing simple models for magnetic field distribution and nonthermal electron population and considering relativistic beaming effects at different inclination angles. Both the flow structures and radio maps capture the longitudinal and transverse structures of the jet-spine and shear layer, consistent with observations. We also compare different background effects and argue that the loss of pressure confinement beyond the galactic core may be a key factor in the flaring and disruption of FR-I jets. Our results confirm that mildly relativistic jets could explain the one-sidedness or asymmetries with the boosted main jet and deboosted counterjet pairs.&lt;/p&gt;
+
+&lt;h4 id=&quot;link-to-the-article&quot;&gt;Link to the Article&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-4357/ad83cc&quot;&gt;Bhattacharjee et al., ApJ, 976, 91 (2024)&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
