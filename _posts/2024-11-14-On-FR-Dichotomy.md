@@ -4,6 +4,8 @@ title: "How do FR-I Jets flare?"
 author: "Ayan Bhattacharjee"
 categories: Jet Physics
 ---
+One of the long standing questions in the context of Radio galaxy jets, is the origin of FR dichotomy. Is the dichotomy real or an observational effect? Is it an intrinsic property of the source or dynamical property of the jet? Is it dictated by the ISM and ICM the jet passes through? Or is it some combination of the above which is too complex to unravel?
+
 #### Motivation
 How do different entrainment processes affect the dynamics, flow structures and morphology of relativistic jets? 
 Can these account for the edge-brightened/edge-darkened dichotomy seen in radio galaxy jets? 
