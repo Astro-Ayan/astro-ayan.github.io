@@ -2,8 +2,9 @@
 layout: post
 title: About
 ---
+Ayan Bhattacharjee is starting as a Postdoc at the Research Institute of Basic Sciences, Seoul National University.
 
-Ayan Bhattacharjee is a Postdoc at the erstwhile (sigh...) *Center for High Energy Astrophysics*, at the College of Natural Sciences, in Ulsan National Institute of Science and Technology. He has been living in South Korea, for last three years.
+He was a Postdoc at the erstwhile (sigh...) *Center for High Energy Astrophysics*, at the College of Natural Sciences, in Ulsan National Institute of Science and Technology. He has been living in South Korea, for last three years.
 
 <!-- <figure>
   <img alt="Christopher Hitchens" src="/assets/images/AB_image.jpg" />
