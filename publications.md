@@ -19,4 +19,4 @@ Here's the link to his [G](https://scholar.google.com/citations?hl=en&user=mBT1-
 
 
 ### Curriculum Vitae
-As if it wasn't ~~self-promoted~~ enough, here's the *enterprise* edition of list the of ~~lore~~ skills, *service records*, and manuscripts, some published and some in ~~Q continuum~~ perpetual purgatory of revision. All the *Data* is ~~La~~forged into a *Personal Dossier*. [Engage](CV_AB_2024_NEW_3page.pdf), if you will ~~wheaton~~.
+As if it wasn't ~~self-promoted~~ enough, here's the *enterprise* edition of list the of ~~lore~~ skills, *service records*, and manuscripts, some published and some in ~~Q continuum~~ perpetual purgatory of revision. All the *Data* is ~~La~~forged into a *Personal Dossier*. [Engage](CV_AB_2025_NEW_3page.pdf), if you will ~~wheaton~~.
