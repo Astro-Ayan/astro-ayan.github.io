@@ -31,3 +31,6 @@ The fact that it is cross-platform and has a free plan as well, makes it even be
 The syncing across devises had been wokring nicely as well. 
 
 For note taking, I would strongly recommend [Obsidian](https://obsidian.md), as it is basically in __Markdown__ format, provides knowledge __network graphs__, and includes __mind-map__ or [canvas](https://obsidian.md/canvas).
+
+### Moving House ~~3rd level of hell~~
+One of the most daunting task, which I am presently going through, is moving houses, especially across different cities. One of the new things that I found was door-to-door delivery service provided by Korea Post, which allows up to 30kg boxes, having a maximum dimension of 160cm. Price was 13,000 KRW/box. Bulk order is possible and delivery takes a day or two. 
