@@ -34,3 +34,5 @@ For note taking, I would strongly recommend [Obsidian](https://obsidian.md), as 
 
 ### Moving House ~~3rd level of hell~~
 One of the most daunting task, which I am presently going through, is moving houses, especially across different cities. One of the new things that I found was door-to-door delivery service provided by Korea Post, which allows up to 30kg boxes, having a maximum dimension of 160cm. Price was 13,000 KRW/box. Bulk order is possible and delivery takes a day or two. 
+
+Another option would be to rent a storage box, if there is gap between the moving dates, and/or in a scanario where moving all the things seem like a hassle. Alphabox can be good option, storage units vary in size, 2.3\*2.3\*V, V=1.9, 2.3, 3.0. Prices vary between 150,000 KRW to 240,000 KRW per month. Depending on the city or neighbourhood, this might be cheaper option than extending the apartment lease.
