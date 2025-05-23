@@ -17,5 +17,4 @@ And precisely for this reason, we have to keep questioning the assumption, of ot
 
 The only way out is communicating what we think, what we believe and be open to the entire experience of the discussion that follows, without a single objective of pursuing the truth.
 
-Here's the link to my recent seminar on the [![Origin of Jets around Neutron Stars](NS_Jet_Talk_20250519.png)](https://youtu.be/y_XMcYJ5dL4).
-
+Here's the link to my recent seminar on the [Origin of Jets around Neutron Stars](https://youtu.be/y_XMcYJ5dL4).

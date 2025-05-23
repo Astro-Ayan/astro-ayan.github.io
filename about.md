@@ -4,6 +4,9 @@ title: About
 ---
 Ayan Bhattacharjee is a Postdoc at the Research Institute of Basic Sciences, Seoul National University. He is presently working on simulation of jets, accretion-ejection around compact objects, the daunting task of moving between cities and surviving the Seoul winter. 
 
+![Circa 2025\label{SNU Radio AGN Group}](AB_Group_SNU.jpg)
+#### Seoul National University, Radio AGN Group, 2025, South Korea
+
 He was a Postdoc at the erstwhile (sigh...) *Center for High Energy Astrophysics*, at the College of Natural Sciences, in Ulsan National Institute of Science and Technology. He has been living in South Korea, for last three years.
 
 <!-- <figure>
