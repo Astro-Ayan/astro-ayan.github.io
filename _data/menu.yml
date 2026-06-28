@@ -1,14 +1,12 @@
 - title: About
   url: /about.html
-
 - title: Publications
   url: /publications.html
-
+- title: TACO
+  url: /taco/
 - title: Self-Organization
   url: /Self-Organization.html
-
 - title: Self-Organized Criticality
   url: /SOC.html
-
 - title: Sci-Comm
   url: /Sci-Comm.html
