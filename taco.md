@@ -8,12 +8,27 @@ permalink: /taco/
   <p class="taco-kicker">Accretion · Comptonization · Shocks · Timing</p>
 
   <p class="taco-lede">
-    <strong>TACO</strong> collects my numerical and spectral modelling work on accretion flows around compact objects, with emphasis on X-ray binaries, two-component advective flows, neutron-star boundary layers, shocks, Comptonization, and timing signatures.
+    <strong>TACO</strong> is a compact research archive for my numerical and spectral modelling work on accretion flows around compact objects, with emphasis on X-ray binaries, two-component advective flows, neutron-star boundary layers, shocks, Comptonization, and timing signatures.
   </p>
 
-  <div class="taco-note">
-    This page is a curated research archive, not a public code release. The goal is to gather the relevant papers, thesis material, schematic figures, and selected notes around the TACO family of calculations.
+  <div class="taco-note taco-code-note">
+    <strong>Code availability.</strong> The TACO codes are not publicly hosted here. This page is intended as a curated archive for papers, thesis material, selected schematics, and related resources connected to the TACO family of calculations.
   </div>
+
+  <nav class="taco-toc" aria-label="TACO page sections">
+    <a href="#overview">Overview</a>
+    <a href="#taco-mc">TACO-MC</a>
+    <a href="#taco-hd">TACO-HD</a>
+    <a href="#taco-rt">TACO-RT</a>
+    <a href="#resources">Resources</a>
+  </nav>
+
+  <section class="taco-overview" id="overview">
+    <h2>Overview</h2>
+    <p>
+      The TACO work is organized here into three connected modules. <strong>TACO-MC</strong> follows photon propagation and thermal Comptonization in the neutron-star TCAF geometry. <strong>TACO-HD</strong> follows the hydrodynamic formation and oscillation of shocked, cooling flows around weakly magnetized neutron stars. <strong>TACO-RT</strong> collects the faster spectral-model side of the same framework, including the TCAF Around Neutron Stars / TANS formulation.
+    </p>
+  </section>
 
   <section class="taco-module" id="taco-mc">
     <div class="taco-module-text">
@@ -33,7 +48,7 @@ permalink: /taco/
     </div>
     <figure class="taco-figure">
       <img src="/assets/images/taco/taco_mc_tcaf_ns_schematic.png" alt="Schematic of the two-component advective flow around a neutron star, showing KD, NBOL, and CENBOL.">
-      <figcaption>TCAF around a neutron star: soft photons from the Keplerian disc and NBOL are Comptonized by CENBOL electrons.</figcaption>
+      <figcaption><strong>Selected schematic.</strong> TCAF around a neutron star: soft photons from the Keplerian disc and NBOL are Comptonized by CENBOL electrons.</figcaption>
     </figure>
   </section>
 
@@ -55,7 +70,7 @@ permalink: /taco/
     </div>
     <figure class="taco-figure">
       <img src="/assets/images/taco/taco_hd_flow_configuration.png" alt="Hydrodynamic flow configuration around a neutron star showing shocked accretion structure.">
-      <figcaption>Representative shocked-flow configuration from the hydrodynamic neutron-star accretion calculations.</figcaption>
+      <figcaption><strong>Selected schematic.</strong> Representative shocked-flow configuration from the hydrodynamic neutron-star accretion calculations.</figcaption>
     </figure>
   </section>
 
@@ -77,17 +92,48 @@ permalink: /taco/
     </div>
     <figure class="taco-figure">
       <img src="/assets/images/taco/taco_rt_tans_schematic.png" alt="Schematic of the TANS model and its spectral components.">
-      <figcaption>TANS / TACO-RT schematic: NBOL, inner and outer CENBOL regions, and Keplerian-disc contributions to the final spectrum.</figcaption>
+      <figcaption><strong>Selected schematic.</strong> TANS / TACO-RT schematic: NBOL, inner and outer CENBOL regions, and Keplerian-disc contributions to the final spectrum.</figcaption>
     </figure>
   </section>
 
   <section class="taco-resources" id="resources">
     <h2>Resources</h2>
-    <ul>
-      <li><a href="/assets/taco/resources/bhattacharjee_chakrabarti_2017_mnras_taco_mc.pdf">Monte Carlo simulations of thermal Comptonization process in a two-component advective flow around a neutron star</a></li>
-      <li><a href="/assets/taco/resources/bhattacharjee_chakrabarti_2019_apj_taco_hd.pdf">Timing Properties of Shocked Accretion Flows around Neutron Stars in the Presence of Cooling</a></li>
-      <li><a href="/assets/taco/resources/bhattacharjee_chakrabarti_tans_taco_rt.pdf">A unified spectral model for accreting neutron stars</a></li>
-      <li><a href="/assets/taco/resources/ayan_bhattacharjee_phd_thesis_2019.pdf">PhD thesis: Spectral and Timing Properties of Black Holes and Neutron Stars in X-ray Binaries Using Two-Component Advective Flow Solution</a></li>
-    </ul>
+    <p>
+      The links below collect the main papers and thesis material presently hosted on this page. The labels are meant as a guide to where each item fits within the TACO archive, not as a replacement for the formal publication record.
+    </p>
+
+    <div class="taco-resource-table" role="region" aria-label="TACO resources">
+      <table>
+        <thead>
+          <tr>
+            <th>Module</th>
+            <th>Resource</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>TACO-MC</td>
+            <td><a href="/assets/taco/resources/bhattacharjee_chakrabarti_2017_mnras_taco_mc.pdf">Monte Carlo simulations of thermal Comptonization process in a two-component advective flow around a neutron star</a></td>
+            <td>Monte Carlo Comptonization in the neutron-star TCAF geometry.</td>
+          </tr>
+          <tr>
+            <td>TACO-HD</td>
+            <td><a href="/assets/taco/resources/bhattacharjee_chakrabarti_2019_apj_taco_hd.pdf">Timing Properties of Shocked Accretion Flows around Neutron Stars in the Presence of Cooling</a></td>
+            <td>SPH simulations of shocked cooling flows, winds, and QPO-like timing behaviour.</td>
+          </tr>
+          <tr>
+            <td>TACO-RT</td>
+            <td><a href="/assets/taco/resources/bhattacharjee_chakrabarti_tans_taco_rt.pdf">A unified spectral model for accreting neutron stars</a></td>
+            <td>TCAF Around Neutron Stars / TANS spectral-model formulation.</td>
+          </tr>
+          <tr>
+            <td>Thesis</td>
+            <td><a href="/assets/taco/resources/ayan_bhattacharjee_phd_thesis_2019.pdf">Spectral and Timing Properties of Black Holes and Neutron Stars in X-ray Binaries Using Two-Component Advective Flow Solution</a></td>
+            <td>Detailed background, schematics, methods, and context across the PhD work.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </section>
 </div>
