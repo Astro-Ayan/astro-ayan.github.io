@@ -1,0 +1,105 @@
+
+.xray-hero {
+  margin: 2.5rem 0 2rem;
+  padding: 1.5rem 0 0.5rem;
+}
+.xray-kicker {
+  margin: 0 0 .35rem;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  font-size: .72rem;
+  color: #8a6a2f;
+  font-weight: 600;
+}
+.xray-lede {
+  font-size: 1.25rem;
+  line-height: 1.55;
+  max-width: 46rem;
+}
+.xray-jump {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .55rem;
+  margin: 1.5rem 0 1.25rem;
+}
+.xray-jump a, .xray-tool-card {
+  text-decoration: none;
+}
+.xray-jump a {
+  border: 1px solid rgba(138, 106, 47, .38);
+  border-radius: 999px;
+  padding: .35rem .75rem;
+  font-size: .85rem;
+}
+.xray-note {
+  border-left: 3px solid rgba(138, 106, 47, .75);
+  padding: .8rem 1rem;
+  margin: 1.5rem 0 2.25rem;
+  background: rgba(138, 106, 47, .07);
+}
+.xray-section {
+  margin: 3rem 0;
+}
+.xray-split {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(260px, .95fr);
+  gap: 1.8rem;
+  align-items: center;
+}
+.xray-split-reverse figure { order: -1; }
+.xray-tool-grid, .xray-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: .9rem;
+  margin-top: 1.25rem;
+}
+.xray-tool-card, .xray-card {
+  display: block;
+  border: 1px solid rgba(0,0,0,.12);
+  border-radius: 14px;
+  padding: 1rem;
+  background: rgba(255,255,255,.35);
+}
+.xray-tool-card span {
+  display: block;
+  margin-top: .35rem;
+  color: #6f6658;
+  font-size: .9rem;
+  line-height: 1.35;
+}
+.xray-card h3 { margin-top: 0; }
+.xray-card img, .xray-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,.10);
+  background: #fff;
+}
+.xray-card img { margin-top: .7rem; }
+.xray-figure { margin: 0; }
+.xray-figure figcaption {
+  margin-top: .45rem;
+  font-size: .86rem;
+  color: #6f6658;
+  line-height: 1.35;
+}
+.xray-resource-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  font-size: .95rem;
+}
+.xray-resource-table th, .xray-resource-table td {
+  border-bottom: 1px solid rgba(0,0,0,.12);
+  padding: .65rem .5rem;
+  vertical-align: top;
+}
+.xray-resource-table th {
+  text-align: left;
+  color: #5f4a22;
+}
+@media (max-width: 760px) {
+  .xray-split { grid-template-columns: 1fr; }
+  .xray-split-reverse figure { order: 0; }
+  .xray-lede { font-size: 1.1rem; }
+}
