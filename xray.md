@@ -110,3 +110,5 @@ permalink: /xray/
     </tbody>
   </table>
 </section>
+
+<script src="/assets/js/research-lightbox.js" defer></script>

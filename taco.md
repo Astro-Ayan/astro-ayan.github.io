@@ -137,3 +137,5 @@ permalink: /taco/
     </div>
   </section>
 </div>
+
+<script src="/assets/js/research-lightbox.js" defer></script>

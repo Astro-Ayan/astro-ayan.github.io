@@ -6,3 +6,4 @@ $asset_url: '{{ '/assets' | absolute_url }}';
 
 @import "reset", "variables", "syntax-highlighting", "mixins", "font", "base", "masthead", "menu", "post-list", "article", "footnotes", "search", "taco";
 @import "xray";
+@import "research_lightbox";
